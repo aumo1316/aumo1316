@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin
-- 👀 I’m interested in R
+- 👀 I’m interested in R and punks
 - 🌱 I’m currently learning how to create apps with Shiny
 - 💞️ I’m looking to collaborate on something
 - 📫 austinmmorel@gmail.com
